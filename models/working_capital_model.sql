@@ -1,3 +1,0 @@
-USE Evaluation.etl_divyansh_5353;
-
-SELECT * FROM WORKING_CAPITAL LIMIT 5;

@@ -10,7 +10,7 @@ default:
       user: EVAL_5353
       password: d7FETRiZB3KrOMignvCe
       role: EVALUATION_DIVYANSH_5353
-      database: EVALUATION
+      database: EVALUATIONs
       warehouse: REPORTING
       schema: ETL_DIVYANSH_5353
       threads: 1
@@ -22,7 +22,7 @@ default:
       user: EVAL_5353
       password: d7FETRiZB3KrOMignvCe
       role: EVALUATION_DIVYANSH_5353
-      database: EVALUATION
+      database: EVALUATIONs
       warehouse: REPORTING
       schema: ETL_DIVYANSH_5353
       threads: 1
