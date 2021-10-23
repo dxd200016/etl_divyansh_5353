@@ -1,0 +1,19 @@
+config:
+  send_anonymous_usage_stats: False
+
+default:
+  outputs:
+
+    dev: # User-Password config
+      type: snowflake
+      account: iv67256
+      user: EVAL_5353
+      password: d7FETRiZB3KrOMignvCe
+      role: EVALUATION_DIVYANSH_5353
+      database: EVALUATION
+      warehouse: REPORTING
+      schema: ETL_DIVYANSH_5353
+      threads: 1
+      client_session_keep_alive: False
+
+  target: dev
