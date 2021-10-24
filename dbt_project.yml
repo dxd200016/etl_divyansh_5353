@@ -8,3 +8,9 @@ models:
     demo:
 test-paths: ["tests"]
 source-paths: ["models"]
+
+tests:
+  <resource-path>:
+    +enabled: true 
+    +tags: "my_tag"
+    +error_if: '!=2920'

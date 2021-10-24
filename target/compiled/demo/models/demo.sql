@@ -22,4 +22,4 @@ FROM   (SELECT date,
         FROM   etl_divyansh_5353.transformation_table)
 WHERE  date >= ( '09/01/2017' )
 ORDER  BY date,
-          account ASC limit 1
+          account ASC limit 5000
