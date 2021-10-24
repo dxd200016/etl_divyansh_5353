@@ -1,1 +1,1 @@
-select count(*) as total_records from ref {{('demo')}} having total_records==0
+select count(*) as total_records from  {{ ref('demo')}}

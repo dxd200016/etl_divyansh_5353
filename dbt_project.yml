@@ -6,3 +6,5 @@ config-version: 2
 profile: 'default'
 models:
     demo:
+test-paths: ["tests"]
+source-paths: ["models"]

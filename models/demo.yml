@@ -2,9 +2,6 @@ version: 2
 
 models:
     - name: demo
-      columns:
-         - name: account
-           tests:
-             - working_capital_test
+    
 
             
