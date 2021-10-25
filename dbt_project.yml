@@ -1,4 +1,4 @@
-name: 'demo'
+name: 'working_capital'
 version: '1.0.0'
 config-version: 2
 
@@ -9,8 +9,4 @@ models:
 test-paths: ["tests"]
 source-paths: ["models"]
 
-tests:
-  <resource-path>:
-    +enabled: true 
-    +tags: "my_tag"
-    +error_if: '!=2920'
+
